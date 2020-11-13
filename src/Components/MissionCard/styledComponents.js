@@ -10,7 +10,7 @@ export const Container = styled.div`
   box-sizing: border-box;
   border-radius: 7px;
   margin-bottom: 20px;
-  max-height: 424px;
+  max-height: 430px;
   flex-direction: column;
   @media (min-width: 1024px) and (max-width: 1200px) {
     width: 188px;
