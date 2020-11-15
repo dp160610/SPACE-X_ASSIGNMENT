@@ -3,9 +3,6 @@ import styled from "styled-components";
 export const Heading = styled.h1`
   margin-top: 0px;
   margin-left: 20px;
-  @media (min-width: 1023px) and (max-width: 1500px) {
-    margin-left: 170px;
-  }
 `;
 
 export const Container = styled.div`
